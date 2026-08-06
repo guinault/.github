@@ -25,7 +25,7 @@ contacts, our partners, and anyone considering joining us.
 ## Security
 
 Found a vulnerability in one of our services?
-Please read our [security policy](SECURITY.md).
+Please read our [security policy](https://github.com/guinault/.github/blob/main/SECURITY.md).
 
 ## Working with us
 
